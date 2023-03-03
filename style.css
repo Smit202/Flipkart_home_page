@@ -11,6 +11,8 @@ a {
     text-decoration: none;
 }
 
+/*______________________________simple navbar___________________________*/
+
 .navbar {
     margin: 0px;
     height: 56px;
@@ -26,7 +28,7 @@ a {
     padding-left: 62px;
 }
 
-.logo p {
+.logo a {
     position: relative;
     top: -5px;
     color: #f0f0f0;
@@ -122,3 +124,7 @@ a {
 .cart div {
     display: inline;
 }
+
+/*______________________________navbar with dropdown___________________________*/
+
+
