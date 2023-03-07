@@ -8,4 +8,4 @@ Built flipkart home page using HTML, baisc CSS properties and flexbox.
 
 ## Links
 
-- Live Site URL: [solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-using-html-and-css-yoa0GQnb1I)
+- Live Site URL: [Flipkart](https://smit202.github.io/Flipkart_home_page/)
