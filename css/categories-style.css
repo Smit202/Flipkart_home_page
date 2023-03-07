@@ -39,6 +39,11 @@
     stroke: #2874f0;
 }
 
+.category-item a:hover svg {
+    transform: rotate(-180deg);
+    transition: 0.2s;
+}
+
 .category-item p {
     padding-right: 7px;
 }
